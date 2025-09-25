@@ -44,7 +44,7 @@ O conteúdo está organizado conforme a ordem apresentada no curso.
 
 Clone este repositório:
 
-git clone https://github.com/FranciscoDev96/Exercicios-Curso-de-Python---Gustavo-Guanabara/edit/main/README.md
+git clone https://github.com/FranciscoDev96/Exercicios-Curso-de-Python---Gustavo-Guanabara/tree/main/Exerc%C3%ADcios%20Desenvolvidos
 
 
 Acesse a pasta do projeto:
